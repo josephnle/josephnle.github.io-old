@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+}
+
+footer {
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+}
+#headwrap {
+    padding: 75px 0 150px 50px;
+    color: #ffffff;
+}
+#headwrap h1, p {
+    color: #ffffff;
+}
